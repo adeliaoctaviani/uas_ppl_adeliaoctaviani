@@ -1,0 +1,18 @@
+Nama:Adelia Octaviani
+NPM:20312103
+Kode Soal:Ganjil
+
+1. Sistem apa yang anda kembangkan?
+Jawab:Sistem Pemesanan Makanan Kantin SMA XYZ
+
+2. Permasalahan apa yang terjadi pada studi kasus anda?
+Jawab:Pemesanan makanan dan kepuasan pelanggan
+
+3. Apa solusi yang dapat anda berikan pada permasalahan tersebut?
+Jawab:membuat sistem yang dapat memudahkan pelanggan dalam memesan makanan
+
+4. Apa yang menjadi nilai lebih solusi yang anda hadirkan dari sistem/solusi yang sudah ada?
+Jawab:pelanggan dapat merasa puas
+
+5. Apa saja kendala dan resiko yang mungkin akan anda hadapi selama pengembangan sistem?
+Jawab:biaya dan waktu yang kurang memadai

@@ -1,0 +1,9 @@
+Nama: Adelia Octaviani
+NPM: 20312103
+Prodi: Informatika
+
+Link hasil perencanaan sistem menggunakan BRD:
+*https://drive.google.com/file/d/1Oas9gVRno7L-iHzkSxu0cDeLLVgwvzrm/view?usp=sharing
+
+Link hasil perencanaan sistem menggunakan Trello:
+*https://trello.com/invite/b/XZVYSKql/ATTI77c72ecd2ec5a0f6f9ab463d6c81c043EAE1A28F/sistem-pemesanan-makanan-di-kantin-sekolah-xyz
